@@ -31,4 +31,4 @@ Here's the example setting for FAST.</br>
 ```
 
 Here's the clock difference plot.</br>
-![clockDiff](clockDiff.png)
+![clockDiff](../clockDiff.png)
