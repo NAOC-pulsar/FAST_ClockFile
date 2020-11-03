@@ -20,7 +20,7 @@ How to change to TEMPO2 clock file in PINT
 Find the file `pint/observatory/observatories.py` and edit it.
 
 Here's the example setting for FAST.
-```python
+``python
  85 TopoObs(
  86     "fast",
  87     tempo_code="k",
@@ -29,4 +29,4 @@ Here's the example setting for FAST.
  90     clock_dir="TEMPO2",
  91     clock_file="fast2gps.clk",
  92     itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
-```
+``
