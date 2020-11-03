@@ -19,14 +19,12 @@ Find the file `pint/observatory/observatories.py` and edit it.
 Here's the example setting for FAST.
 
 ```python
-
- 85 TopoObs(
- 86     "fast",
- 87     tempo_code="k",
- 88     itoa_code="FA",
- 89     clock_fmt="tempo2",
- 90     clock_dir="TEMPO2",
- 91     clock_file="fast2gps.clk",
- 92     itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
-
+ TopoObs(
+     "fast",
+     tempo_code="k",
+     itoa_code="FA",
+     clock_fmt="tempo2",
+     clock_dir="TEMPO2",
+     clock_file="fast2gps.clk",
+     itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
 ```
