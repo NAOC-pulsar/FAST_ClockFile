@@ -29,3 +29,6 @@ Here's the example setting for FAST.
      clock_file="fast2gps.clk",
      itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
 ```
+
+Here's the clock difference plot.
+![clockDiff](clockDiff.png)
