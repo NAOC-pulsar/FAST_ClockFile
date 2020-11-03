@@ -18,7 +18,7 @@ Find the file `pint/observatory/observatories.py` and edit it.
 
 Here's the example setting for FAST.
 
-```python
+```
  TopoObs(
      "fast",
      tempo_code="k",
