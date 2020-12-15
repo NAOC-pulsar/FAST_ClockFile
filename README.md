@@ -34,4 +34,6 @@ Here's the clock difference plot.</br>
 ![clockDiff](https://github.com/NAOC-pulsar/FAST_ClockFile/blob/master/clockDiff.png)
 
 
-> It is straight forward to get (X,Y,Z)=(−1668557.2070983793,5506838.5266271923,2744934.9655897617). This value is consistent with that used by PINT, (X,Y,Z)=(−1668557.0,5506838.0,2744934.0), which is provided by Youling Yue, one of the authors. We think the FAST coordinate used by PINT is OK. (link)[http://blog.sciencenet.cn/blog-117333-1262557.html]
+> It is straight forward to get (X,Y,Z)=(−1668557.2070983793,5506838.5266271923,2744934.9655897617). This value is consistent with that used by PINT, (X,Y,Z)=(−1668557.0,5506838.0,2744934.0), which is provided by Youling Yue, one of the authors. We think the FAST coordinate used by PINT is OK. [link](http://blog.sciencenet.cn/blog-117333-1262557.html)
+
+This means you need to update the coordinates of FAST in tempo2
