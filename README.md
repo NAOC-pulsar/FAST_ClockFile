@@ -11,6 +11,7 @@ https://crafts.bao.ac.cn/pub/fast/time/time_fast.dat
 
 FAST 台站更新 201909/19 </br>
 -1668557.0      5506838.0      2744934.0        FAST                fast
+
 https://crafts.bao.ac.cn/pub/fast/time/fast-coord.txt
 
 
