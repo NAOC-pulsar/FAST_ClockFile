@@ -23,14 +23,15 @@ Find the file `pint/observatory/observatories.py` and edit it.</br>
 Here's the example setting for FAST.</br>
 
 ```python
- TopoObs(
-     "fast",
-     tempo_code="k",
-     itoa_code="FA",
-     clock_fmt="tempo2",
-     clock_dir="TEMPO2",
-     clock_file="fast2gps.clk",
-     itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
+TopoObs(
+    "fast",
+    tempo_code="k",
+    itoa_code="FA",
+    clock_fmt="tempo2",
+    clock_dir="TEMPO2",
+    clock_file="fast2gps.clk",
+    itrf_xyz=[-1668557.0, 5506838.0, 2744934.0]
+)
 ```
 
 Here's the clock difference plot.</br>
