@@ -1,4 +1,8 @@
 README
+
+tempo realse from nanograv
+https://github.com/nanograv/tempo
+
 FAST clock file
 
 Clock file in TEMPO2 format:</br>
