@@ -48,7 +48,5 @@ This means you need to update the coordinates of FAST in tempo2
 
 ## Transit clock format
 need PINT
-
 usage:
-
 python clockFileFormatChange.py 
