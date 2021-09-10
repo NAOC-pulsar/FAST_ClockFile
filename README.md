@@ -46,7 +46,7 @@ Here's the clock difference plot.</br>
 
 This means you need to update the coordinates of FAST in tempo2
 
-## Transit clock format
-need PINT
-usage:
-python clockFileFormatChange.py 
+## Transit clock format</br>
+need PINT</br>
+usage:</br>
+python clockFileFormatChange.py </br>
