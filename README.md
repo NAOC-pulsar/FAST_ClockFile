@@ -6,17 +6,16 @@ https://github.com/nanograv/tempo
 ## FAST clock file
 
 Clock file in TEMPO2 format:</br>
-https://crafts.bao.ac.cn/pub/fast/time/fast2gps.clk
+fast2gps20230425.clk
 
 Clock file in TEMPO format:</br>
-https://crafts.bao.ac.cn/pub/fast/time/time_fast.dat
-
+time_fast20230425.dat
 
 
 ## FAST 台站更新 201909/19 </br>
 -1668557.0      5506838.0      2744934.0        FAST                fast
 
-https://crafts.bao.ac.cn/pub/fast/time/fast-coord.txt
+%https://crafts.bao.ac.cn/pub/fast/time/fast-coord.txt
 
 
 
