@@ -6,10 +6,10 @@ https://github.com/nanograv/tempo
 ## FAST clock file
 
 Clock file in TEMPO2 format:</br>
-fast2gps20230425.clk
+fast2gps.clk
 
 Clock file in TEMPO format:</br>
-time_fast20230425.dat
+time_fast.dat
 
 
 ## FAST 台站更新 201909/19 </br>
